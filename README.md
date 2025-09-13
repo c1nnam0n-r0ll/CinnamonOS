@@ -1,2 +1,2 @@
 # CinnamonOS
-Alr, nothing is here yet. But soon I will start adding code for a CLI operating system using X86-64 long. 
+I had to literally erase everything and start from scratch around a week ago. Bootloader will be up.
