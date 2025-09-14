@@ -1,2 +1,2 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+Most of the branches done, I will add makefile and more later. GDT is done, win progress of the loader.
