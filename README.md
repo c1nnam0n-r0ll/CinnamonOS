@@ -1,2 +1,2 @@
 # CinnamonOS
-Most of the branches done, I will add makefile and more later. GDT is done, in progress of the entry.
+Most of the branches done, I will add makefile and more later. In progress of the context switch.
