@@ -14,3 +14,7 @@
 # THE WORLD WAS MISERABLE IN 1492!!!!!!!!!!!!!!!!!!!!!!!!!
 # If you're looking at this, please don't leave, I have no friends.
 # Remember, reality is an illusion, the universe is a hologram, buy gold, BYE
+
+# I am back here for some reason
+# Also, CinnamonOS (CMOS) has nothing to do with the Linux desktop environment 
+# That's basically all I wanted to say
