@@ -1,2 +1,2 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+Our own anti malware. This will either be really good or literally horrible.
