@@ -1,2 +1,2 @@
 # CinnamonOS
-I had to literally erase everything and start from scratch around a week ago. Bootloader will be up.
+Time stuff such as RTC, PIT, general timer, et cetera. Well, right now our plan is just those three but... maybe more, idk
