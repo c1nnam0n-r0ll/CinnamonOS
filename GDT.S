@@ -3,8 +3,7 @@
 # I'm relying on UEFI's GDT
 # I kinda miss BIOS stuff
 # Doing C for a bootloader felt weird
-# BTW, I'm built different lol
-# Also, x86 assembly is significantly better than NASM, YASM, or any other assembly language where you put a letter in front of ASM
+# Also, x86 assembly is the best low level language
 # C is the goat, but it still feels unnatural for the bootloader
 # Bread is peak
 # Bread is peak
