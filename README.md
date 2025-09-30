@@ -1,2 +1,3 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+File systems (e.g. FAT32)
+This will contain a custom CFS (Cinnamon File System) that may or may not function 
