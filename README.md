@@ -1,2 +1,2 @@
 # CinnamonOS
-Most of the branches done, I will add makefile and more later. GDT is done, win progress of the loader.
+Architectures (currently just x86, if this is succesful ARM and RISC-V will be added)
