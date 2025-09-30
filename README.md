@@ -1,2 +1,2 @@
 # CinnamonOS
-I am now in the process of redoing everything so far because I should probably support UEFI instead of BIOS.
+I haven't updated this in awhile. We're working on mm.
