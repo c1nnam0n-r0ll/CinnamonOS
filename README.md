@@ -1,2 +1,2 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+The device drivers for hardware to actually work
