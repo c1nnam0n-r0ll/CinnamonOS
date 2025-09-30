@@ -1,2 +1,2 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+System level applications outside the kernel (like drivers and the file system)
