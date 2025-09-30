@@ -1,2 +1,2 @@
 # CinnamonOS
-I will add the rest of the branches later, GDT is done lol.
+User level sys applications and stuff (this'll be done near the end)
